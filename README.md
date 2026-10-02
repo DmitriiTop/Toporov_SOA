@@ -1,4 +1,4 @@
-задание 3 
+задание 3  
 
 <mark style="background:#fff88f">Домен - за что отвечает</mark>
 
